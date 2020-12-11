@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'll add some more things soon - for the moment there's some old stuff written here: https://federiconanni.com/
+I'll add something soon - for the moment there's some old stuff in [here](https://federiconanni.com/)
 
 
 <!--
