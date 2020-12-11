@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'll add some more things soon - for the moment there's some old stuff written here: https://federiconanni.com/
+
+
 <!--
 **fedenanni/fedenanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
