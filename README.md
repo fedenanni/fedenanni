@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Research Data Scientist at [The Alan Turing Institute](https://www.turing.ac.uk), working as part of the [Research Engineering Group](https://www.turing.ac.uk/research/research-engineering), where I focus on adopting and adapting foundation models across a wide range of research projects.
+I am a Senior Research Data Scientist at [The Alan Turing Institute](https://www.turing.ac.uk), working as part of the [Research Engineering Group](https://www.turing.ac.uk/research/research-engineering), where I act as REG lead for Fundamental AI and specifically focus on adopting and adapting foundation models across a wide range of research projects.
 
 <!--
 **fedenanni/fedenanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
